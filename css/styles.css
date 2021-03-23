@@ -1,0 +1,114 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+.Top {
+  background-color: #d3e0dc;
+  padding: 100px;
+
+}
+div {
+  background-color: #abc4bc;
+}
+.profilepic {
+  height: 200px;
+  width: 200px;
+  margin-top: 20px;
+  border-radius: 100%;
+}
+.Computer-image {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.chilli-img {
+  float: right;
+  margin-left: 30px;
+  width: 35%;
+}
+.Links {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  top: 5px;
+  background-color: white;
+  border-radius: 100%;
+}
+a {
+
+}
+h1 {
+  margin: 0 auto 0 auto;
+width: 500px;
+font-family: 'Sacramento', cursive;
+font-size: 5rem;
+color: #007965;
+  position: relative;
+  font-style: oblique;
+}
+h2 {
+  color: #387c6d;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+p {
+  color: #519872;
+  line-height: 2;
+}
+.x {
+  font-style: italic;
+    position: relative;
+    font-size: 1.25rem;
+    color: #007965;
+    font-weight: normal;
+}
+.A {
+  display: inline-block;
+  position: relative;
+  right: 130px;
+  top: 135px;
+}
+.B {
+  position: relative;
+  left: 135px;
+}
+.C {
+  position: relative;
+  left: 30px;
+}
+.middle-container {
+  text-align: center;
+}
+.bottom-container {
+  background-color: #4e8d7c;
+}
+.copyright {
+  color: white;
+}
+button {
+  background-color: #00917c;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  height: 28px;
+    width: 134px;
+    font-size: 16px;
+}
+.btn {
+  color:  #abc4bc;
+  font-family: 'Roboto Slab';
+    text-decoration: none;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: #00917c;
+  height: 0px;
+  width: 4%;
+  margin: 30px auto;
+}
