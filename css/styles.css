@@ -88,6 +88,8 @@ p {
 }
 .copyright {
   color: white;
+  margin-block-start: 0em;
+margin-block-end: 0em;
 }
 button {
   background-color: #00917c;
